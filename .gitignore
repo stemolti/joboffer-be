@@ -1,0 +1,5 @@
+node_modules/
+dist/
+
+# Ignora i files yaml
+*.yaml
